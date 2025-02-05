@@ -1,0 +1,8 @@
+flask
+pdfplumber
+pytesseract
+pdf2image
+Pillow
+google-generativeai
+flask_cors
+requests
